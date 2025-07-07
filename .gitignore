@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+
+# Lock file
+package-lock.json
+
+# Compiled JavaScript files and source maps
+# Assuming 'public/' contains transpiled JS from your TypeScript files
+public/*.js
+public/*.js.map
+
+# TypeScript cache
+.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
