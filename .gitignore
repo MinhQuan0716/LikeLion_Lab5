@@ -4,8 +4,6 @@ node_modules/
 # Lock file
 package-lock.json
 
-# Compiled JavaScript files and source maps
-# Assuming 'public/' contains transpiled JS from your TypeScript files
 
 # TypeScript cache
 .tsbuildinfo
