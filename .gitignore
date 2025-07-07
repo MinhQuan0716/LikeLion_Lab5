@@ -6,8 +6,6 @@ package-lock.json
 
 # Compiled JavaScript files and source maps
 # Assuming 'public/' contains transpiled JS from your TypeScript files
-public/*.js
-public/*.js.map
 
 # TypeScript cache
 .tsbuildinfo
